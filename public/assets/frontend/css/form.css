@@ -1,0 +1,56 @@
+.fromh1{
+  font-size: 32px;
+  text-align: center;
+}
+
+.formdesign {
+  margin: 40px auto 0;
+}
+
+.formlebel {
+  display: block;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.forminput {
+  border: 2px solid #333;
+  border-radius: 5px;
+  color: #333;
+  font-size: 32px;
+  margin: 0 0 20px;
+  padding: .5rem 1rem;
+  width: 100%;
+
+}
+
+.formbutton {
+  background: #fff;
+  border: 2px solid #333;
+  border-radius: 5px;
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.formbutton:hover {
+  background: #333;
+  border: 2px solid #333;
+  color: #fff;
+}
+
+.main {
+  background: #fff;
+  border: 5px solid #ccc;
+  border-radius: 10px;
+  margin: 40px auto;
+  padding: 40px;
+  width: 80%;
+  max-width: 700px;
+  background: #f5f5f5;
+  color: #333;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 32px;
+}
